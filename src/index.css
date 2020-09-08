@@ -1,0 +1,27 @@
+body {
+    background: red;
+}
+
+h2 {
+    background: coral;
+}
+
+h3 {
+    background: magenta;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.w {
+    background: palegoldenrod;
+}
+
+.b {
+    background: aliceblue;
+}
+
+.r {
+    background: aliceblue;
+}
