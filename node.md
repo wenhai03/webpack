@@ -42,5 +42,5 @@ cnpm i style-loader css-loader less-loader stylus-loader sass-loader sass less s
 拷贝文件到目录下
 
  cnpm i copy-webpack-plugin -D
- 
+
 ```
